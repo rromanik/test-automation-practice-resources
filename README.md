@@ -18,3 +18,10 @@ This repository is intended to contain references to different resources that ca
 | URL | Name | Other |
 | ---- | ---- | ---- |
 | https://testautomationu.applitools.com/ | Test Automation University (Applitools) |
+| https://www.ministryoftesting.com/ | Ministry of Testing | |
+
+### Other aggregators of similar resources
+
+| URL | Name | Other |
+| ---- | ---- | ---- |
+| https://www.ministryoftesting.com/dojo/lessons/websites-to-practice-testing | | |
