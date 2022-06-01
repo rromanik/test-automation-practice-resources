@@ -25,3 +25,4 @@ This repository is intended to contain references to different resources that ca
 | URL | Name | Other |
 | ---- | ---- | ---- |
 | https://www.ministryoftesting.com/dojo/lessons/websites-to-practice-testing | | |
+| https://www.testing-challenges.org/Testing+Challenges | Testing Challenges | |
