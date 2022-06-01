@@ -12,3 +12,9 @@ This repository is intended to contain references to different resources that ca
 | https://the-internet.herokuapp.com/ | Heroku app | |
 | https://demo.seleniumeasy.com/ | Demo Selenium easy | |
 | https://demoqa.com/ | Demo QA | |
+
+### Learning resources
+
+| URL | Name | Other |
+| ---- | ---- | ---- |
+| https://testautomationu.applitools.com/ | Test Automation University (Applitools) |
