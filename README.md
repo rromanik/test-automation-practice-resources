@@ -3,4 +3,7 @@ This repository is intended to contain references to different resources that ca
 
 ## Resources
 ### For Web UI test automation
-https://www.saucedemo.com/
+
+| URL | Short description | Source code |
+| https://www.saucedemo.com/ | | |
+| http://automationpractice.com/index.php | | https://github.com/StMarco89/automationpractice.com |
