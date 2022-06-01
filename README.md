@@ -8,3 +8,4 @@ This repository is intended to contain references to different resources that ca
 | ---- | ---- | ---- |
 | https://www.saucedemo.com/ | | |
 | http://automationpractice.com/index.php | | https://github.com/StMarco89/automationpractice.com |
+| https://todomvc.com/ | Different implementations of TODO app. It contains links to the source code of the implementations. | |
