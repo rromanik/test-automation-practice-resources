@@ -26,3 +26,4 @@ This repository is intended to contain references to different resources that ca
 | ---- | ---- | ---- |
 | https://www.ministryoftesting.com/dojo/lessons/websites-to-practice-testing | | |
 | https://www.testing-challenges.org/Testing+Challenges | Testing Challenges | |
+| https://www.zeljkovic.sh/my-favorite-web-applications-for-test-automation-practice/ | | An article |
